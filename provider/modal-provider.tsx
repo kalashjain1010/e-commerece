@@ -6,7 +6,7 @@ import { StoreModal } from "@/components/modal/store-modal";
 
 export const ModalProvider = () => {
   const [isMounted, setIsMounted] = useState(false);
-
+// das
   useEffect(() => {
     setIsMounted(true);
   }, []);
