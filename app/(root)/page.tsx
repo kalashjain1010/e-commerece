@@ -17,7 +17,7 @@ const SetupPage =() =>{
   return (
     <div>
       root
-        {/* <Modal title='ds' description='sad' onClose={()=>{}} isOpen >fds</Modal> */}
+     
     </div>
   )
 }
