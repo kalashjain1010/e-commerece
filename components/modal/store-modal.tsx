@@ -46,7 +46,7 @@ export const StoreModal = () => {
                   <FormItem>
                     <FormLabel>name</FormLabel>
                     <FormControl>
-                      <Input placeholder="E=com" {...field} />
+                      <Input placeholder="E com" {...field} />
                     </FormControl>
                   </FormItem>
                 )}
